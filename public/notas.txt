@@ -1,0 +1,1 @@
+Sistema de Gestión de Clínicas: Crea una base de datos para gestionar pacientes y médicos, incluyendo consultas. Tablas: `Pacientes` (paciente_id, nombre, apellido, direccion, telefono), `Medicos` (medico_id, nombre, especialidad, telefono, email). Francis Fiallos
